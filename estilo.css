@@ -1,0 +1,146 @@
+body {
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+
+.padre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textofps {
+	color: white;
+	background-color: black;
+	box-shadow: black;
+	display: flex;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 0,5em;
+	padding: 0.3em;
+}
+
+.fps2020 {
+	margin-bottom: 100px;
+	color: white;
+	background-color: black;
+	box-shadow: black;
+	display: flex;
+	border-radius: 15px;
+	text-align: center;
+	font-size: 0,5em;
+	margin: 15px;
+}
+
+.fps2021 {
+	color: white;
+	background-color: black;
+	box-shadow: black;
+	display: flex;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 50px;
+}
+
+.texto2020 {
+	color: white;
+	background-color: black;
+	box-shadow: black;
+
+	border-radius: 50px;
+	text-align: auto;
+	font-size: 40px;
+	padding: 5px 5px;
+
+}
+
+.padre2020 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.f2020 {
+    margin-bottom: 100px;
+    color: white;
+    background-color: black;
+    box-shadow: black;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 15px;
+    padding: 10px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    position: absolute;
+    margin-left: 25rem;
+} 
+
+
+.f2021 {
+    margin-bottom: 100px;
+    color: white;
+    background-color: black;
+    box-shadow: black;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 15px;
+    padding: 10px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    position: absolute;
+    margin-left: 52rem;
+
+}
+
+
+.inicio{
+color: white;
+	background-color: black;
+	box-shadow: black;
+	display: flex;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 260px;
+	padding: 5px 10px;
+}
+
+.iniciop {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.imagenes {
+	margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
